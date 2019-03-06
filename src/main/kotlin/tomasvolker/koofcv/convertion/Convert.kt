@@ -1,4 +1,4 @@
-package tomasvolker.koofcv
+package tomasvolker.koofcv.convertion
 
 import boofcv.io.image.ConvertBufferedImage
 import boofcv.struct.image.*
